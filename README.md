@@ -66,21 +66,15 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge"/>
 
 <!-- DevOps & Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?logo=githubactions&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-EF5B25?logo=postman&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
-
-<!-- Messaging / Queues -->
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge"/>
 
 <!-- ML / Data -->
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
